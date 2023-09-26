@@ -1,0 +1,54 @@
+.box-card{
+    width:200px;
+    height:200px;
+    box-shadow:5px 5px 20px #024043;
+}
+.boxes{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+}
+.box-card1{
+    height: 50px;
+    width: 800px;
+    border: 1px solid black;
+    background-color: black;
+    position: absolute;
+    left:5%;
+    color:white;  
+
+}
+ .box-card2{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-color:black;
+    color:white;
+    position: absolute;
+    left:5%;
+    top:50%;
+    
+}
+.box-card3{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-color:black;
+    color:white;
+    position: absolute;
+    left:5%;
+    top:100%;
+    
+}
+ .box-card4{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-color:black;
+    color:white;
+    position: absolute;
+    left:5%;
+    top:150%;
+    
+}
