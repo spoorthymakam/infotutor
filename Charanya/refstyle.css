@@ -39,10 +39,10 @@ margin-left:115px;
     float:left;
     color: white;
     padding: 5px 80px 3px 80px;
-    font-size: 25px;
+    font-size: 20px;
     background: rgb(18, 157, 216);
     height:30px;
-    width:40%;
+    width:65%;
     text-align:center;
     border-radius: 25px;
 }
@@ -51,6 +51,6 @@ margin-left:115px;
  .nav-bar a:hover {
   background-color:grey;
   color: black;
-  width:33.33%;
+  width:65%;
   
 }
