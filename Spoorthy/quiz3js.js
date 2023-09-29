@@ -27,7 +27,7 @@ const quizData = [
       {
         question: 'Which incident persuaded the USA to join the war?',
         options: ['Hitler’s attack on Eastern Europe','Hitler’s policy of genocide of the Jews','Helplessness of England and France','Japan attack on the US base at Pearl Harbour'],
-        answer: '',
+        answer: 'Japan attack on the US base at Pearl Harbour',
       },
       {
         question: 'How many seats are reserved in the Lok Sabha for the Scheduled Castes and Scheduled Tribes?',
