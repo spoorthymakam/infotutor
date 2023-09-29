@@ -2,7 +2,7 @@ const quizData = [
     {
       question: 'Which one of the following salts does not con-tain water of crystallisation?',
       options: ['Blue vitriol', 'Baking soda', 'Washing soda', 'Gypsum'],
-      answer: 'Backing soda',
+      answer: 'Baking soda',
     },
     {
       question: 'In terms of acidic strength, which one of the following is in the correct increasing order?',
@@ -25,7 +25,7 @@ const quizData = [
         'Parasitic nutrition',
         'Holozoic nutrition',
         'Autotrophic nutrition',
-        'Saprotophic nutrition',
+        'Saprotrophic nutrition',
       ],
       answer: 'Saprotrophic nutrition',
     },
