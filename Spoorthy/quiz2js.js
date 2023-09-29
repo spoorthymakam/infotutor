@@ -26,7 +26,7 @@ const quizData = [
       },
       {
         question: 'What should be added to -7/3 to get 3/7?',
-        options: ['58//21', '32/51', '58/121', '12/56'],
+        options: ['58/21', '32/51', '58/121', '12/56'],
         answer: '58/21',
       },
       {
