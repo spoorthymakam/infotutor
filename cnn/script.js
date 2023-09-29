@@ -1,23 +1,23 @@
 const quizData = [
     {
-      question: 'What is the capital of France?',
-      options: ['Paris', 'London', 'Berlin', 'Madrid'],
-      answer: 'Paris',
+      question: 'Identify the noun in " I live in India."',
+      options: ['I', 'in', 'India', 'Love'],
+      answer: 'India',
     },
     {
-      question: 'What is the largest planet in our solar system?',
-      options: ['Mars', 'Saturn', 'Jupiter', 'Neptune'],
-      answer: 'Jupiter',
+      question: 'Identify the verb in "Please open the door.".',
+      options: ['Please', 'open', 'the', 'none'],
+      answer: 'open',
     },
     {
-      question: 'Which country won the FIFA World Cup in 2018?',
-      options: ['Brazil', 'Germany', 'France', 'Argentina'],
-      answer: 'France',
+      question: 'The product of 9×2 is?',
+      options: ['11', '17', '18', '7'],
+      answer: '18',
     },
     {
-      question: 'What is the tallest mountain in the world?',
-      options: ['Mount Everest', 'K2', 'Kangchenjunga', 'Makalu'],
-      answer: 'Mount Everest',
+      question: 'The sum of 21+6+4?',
+      options: ['21', '10', '25', '31'],
+      answer: '31',
     },
     {
       question: 'Which is the largest ocean on Earth?',
@@ -30,9 +30,9 @@ const quizData = [
       answer: 'Pacific Ocean',
     },
     {
-      question: 'What is the chemical symbol for gold?',
-      options: ['Au', 'Ag', 'Cu', 'Fe'],
-      answer: 'Au',
+      question: '7 fours are ?',
+      options: ['88', '48', '38', '28'],
+      answer: '28',
     },
     {
       question: 'Who painted the Mona Lisa?',
@@ -45,24 +45,46 @@ const quizData = [
       answer: 'Leonardo da Vinci',
     },
     {
-      question: 'Which planet is known as the Red Planet?',
-      options: ['Mars', 'Venus', 'Mercury', 'Uranus'],
-      answer: 'Mars',
+      question: 'Identify the adjective in "Ria lives in a beautiful house".',
+      options: ['house', 'beautiful', 'Ria', 'lives'],
+      answer: 'beautiful',
     },
     {
-      question: 'What is the largest species of shark?',
+      question: 'Identify the synonym of Listen?',
       options: [
-        'Great White Shark',
-        'Whale Shark',
-        'Tiger Shark',
-        'Hammerhead Shark',
+         'Hear','quite','play','talk'
       ],
-      answer: 'Whale Shark',
+      answer: 'Hear',
     },
     {
       question: 'Which animal is known as the King of the Jungle?',
       options: ['Lion', 'Tiger', 'Elephant', 'Giraffe'],
       answer: 'Lion',
+    },
+    {
+      question: 'Identify the tense in "He plays basketball every day.".',
+      options: ['Present', 'Past', 'Future', 'Past perfect'],
+      answer: 'present',
+    },
+    {
+      question: 'What is the next prime number after 5?',
+      options: ['3', '7', '10', '11'],
+      answer: '7',
+    },
+    {
+      question: 'Choose The Right Spelling : It is _______.',
+      options: ['wondrfull', 'wendorfull', 'wonderful', 'wanderfool'],
+      answer: 'wonderful',
+    },
+    {
+      question: 'Which of these have more tens?',
+      options: ['355', '769', '199', '832'],
+      answer: '832',
+    },
+    {
+      question: 'Taj Mahal is located in?',
+      options: ['Delhi', 'Mumbai', 'Agra', 'Bengaluru'],
+      answer: 'Agra',
     },
   ];
   
